@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyToDo.Views.TodoListView" Title="{Binding PageTitle}">
+    <ContentPage.Content>
+        <StackLayout>
+            <RefreshView Command="{Binding RefreshCommand}" IsRefreshing="{Binding IsBusy}">
+                <ListView ItemsSource="{Binding TodoList}" SelectedItem="{Binding SelectedTodo}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label Text="{Binding Title}"/>
+
+                                    <Label Text="{Binding Description}"/>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+            </RefreshView>
+            <Button BackgroundColor="#CE85EF" Text="Delete selected" Command="{Binding DeleteCommand}"/>
+            <Button BackgroundColor="#CE8585" Text="Add new Todo" Command="{Binding AddCommand}"/>
+            <Button Text="Restore Data in API" Command="{Binding RestoreCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

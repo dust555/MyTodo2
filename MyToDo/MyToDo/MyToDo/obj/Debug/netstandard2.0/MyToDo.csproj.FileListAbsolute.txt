@@ -1,0 +1,48 @@
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.deps.json
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.dll
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\ref\MyToDo.dll
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.pdb
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.csprojAssemblyReference.cache
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\Views\TodoListView.xaml.g.cs
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.AssemblyInfoInputs.cache
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.AssemblyInfo.cs
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.dll
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\ref\MyToDo.dll
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.pdb
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\Views\AddTodoView.xaml.g.cs
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.csproj.CoreCompileInputs.cache
+C:\Users\u0118137\source\repos\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.deps.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\ref\MyToDo.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.csprojAssemblyReference.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\Views\AddTodoView.xaml.g.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\Views\TodoListView.xaml.g.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.AssemblyInfoInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.AssemblyInfo.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\ref\MyToDo.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.csproj.CoreCompileInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.deps.json
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.dll
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\ref\MyToDo.dll
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.pdb
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.csprojAssemblyReference.cache
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\Views\AddTodoView.xaml.g.cs
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\Views\TodoListView.xaml.g.cs
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.AssemblyInfoInputs.cache
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.AssemblyInfo.cs
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.csproj.CoreCompileInputs.cache
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.dll
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\ref\MyToDo.dll
+C:\Users\u0118137\Desktop\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.pdb
